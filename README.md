@@ -17,3 +17,6 @@ Kursrepo för Programmering C#.
 ### [Vecka 42](./assets/V42.md)
 ### [Vecka 43](./assets/V43.md)
 ### [Vecka 44](./assets/V44.md)
+
+## Labbar
+### [Labb 1](./assets/Labb%201.md)
