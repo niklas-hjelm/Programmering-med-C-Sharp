@@ -12,9 +12,9 @@ Kursrepo för Programmering C#.
 ### [Vecka 37](./assets/V37.md) OOP forts.
 ### [Vecka 38](./assets/V38.md) Grafiska Applikationer
 ### [Vecka 39](./assets/V39.md) Grafiska Applikationer forts.
-### [Vecka 40](./assets/V40.md) Asynkron Programmering
-### [Vecka 41](./assets/V41.md) OOP Advanced
-### [Vecka 42](./assets/V42.md) Buffert
+### [Vecka 40](./assets/V40.md) OOP Advanced
+### [Vecka 41](./assets/V41.md) OOP Advanced forts.
+### [Vecka 42](./assets/V42.md) Asynkron Programmering
 ### [Vecka 43](./assets/V43.md) Buffert
 ### [Vecka 44](./assets/V44.md) Buffert och Tenta
 
