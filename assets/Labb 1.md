@@ -49,5 +49,4 @@ Lämna in uppgiften på ithsdistans med en kommentar med github-länken. </br>
 ### För väl godkänt krävs även:
 * Båda uppgifterna ska vara lösta, d.v.s. programmet ska först skriva ut alla delsträngar som i exemplet ovan och därefter räkna ut och skriva ut total.
 * Koden ska vara väl strukturerad och lätt att förstå.
-* Allting ska fungera vid inlämning. Gör det inte det så kommer ni få tillbaks uppgiften med möjlighet att fixa det som krävs för godkänt. Men ni har alltså bara en chans på er att få VG. Så var noga med testning.
 # Inlämning sker före deadline.
