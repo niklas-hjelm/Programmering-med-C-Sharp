@@ -1,5 +1,5 @@
 # Lab1 – Hitta tal i sträng med tecken 
-Skapa en konsollapplikation som tar en textsträng (**string**) som argument. </br>
+Skapa en konsollapplikation som tar en textsträng (**string**) som argument till Main eller uppmanar användaren mata in en sträng i konsollen. </br>
 Textsträngen ska sedan sökas igenom efter alla delsträngar som är tal som börjar </br>
 och slutar på samma siffra, utan att start/slutsiffran, eller något annat tecken än </br>
 siffror förekommer där emellan. </br>
