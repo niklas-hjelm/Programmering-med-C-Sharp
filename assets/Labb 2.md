@@ -68,7 +68,7 @@ Som Extra uppgift ska man på något sätt implementera 3 nivåer av kund (Gold,
 * Silver: 10% rabatt på hela köpet
 * Bronze: 5% rabatt på hela köpet
 
-Nivåerna skall implementeras med hjälp arv av basklassen Kund.
+Nivåerna skall implementeras med hjälp av arv av basklassen Kund.
 
 En kund skall också spara alla registrerade kunder så att de går att använda emellan körningar. Tips: textfil.
 
