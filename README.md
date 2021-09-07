@@ -20,3 +20,4 @@ Kursrepo för Programmering C#.
 
 ## Labbar
 ### [Labb 1](./assets/Labb%201.md)
+### [Labb 2](./assets/Labb%202.md)
