@@ -1,6 +1,9 @@
 # Programmering-med-C-Sharp
 Kursrepo för Programmering C#.
 
+## Gloslista
+[Glosor](./assets/glossary.md)
+
 ## Kursmål
 [Kursmål](./assets/Kursmål.md)
 
