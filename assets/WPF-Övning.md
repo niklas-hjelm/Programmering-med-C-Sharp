@@ -82,4 +82,6 @@ dem om du vill att ditt program ska vara case insensitive.
 
 **ListView** kan användas för att visa ordlistorna och **Open-/Save-Dialog** kan användas för att öppna/spara filer. 
 
+Kolla upp **Action** [här](https://docs.microsoft.com/en-us/dotnet/api/system.action-1?view=net-5.0) för mer info kring hur du skapar ett delegate/callback.
+
 
