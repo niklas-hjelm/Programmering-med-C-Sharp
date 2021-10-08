@@ -36,27 +36,43 @@ att ladda in och spara listan från .csv; lägga till och ta bort ord; slumpa or
 övningar; och andra metoder beskrivet enligt nedan:</br>
 Properties:
 ```cs
-public string Name { get; } Namnet på listan.
-public string[] Languages { get; } Namnen på språken.
+public string Name { get; } //Namnet på listan.
+public string[] Languages { get; } //Namnen på språken.
 ```
 Metoder:
 ```cs
 // Konstruktor. Sätter properites Name och Languages till parametrarnas värden.
 public Wordlist(string name, params string[] languages)
+```
+```cs
 //Returnerar array med namn på alla listor som finns lagrade (utan filändelsen).
 public static string[] GetLists()
-//Laddar in ordlistan (name anges utan filändelse) och returnerar som WordList. 
+```
+```cs
+//Laddar in ordlistan (name anges utan filändelse) och returnerar som WordList.
 public static Wordlist LoadList(string name)
+```
+```cs
 //Sparar listan till en fil med samma namn som listan och filändelse .csv
 public void Save()
+```
+```cs
 //Lägger till ord i listan. Kasta ArgumentException om det är fel antal translations.
 public void Add(params string[] translations)
+```
+```cs
 // translation motsvarar index i Languages. Sök igenom språket och ta bort ordet.
 public bool Remove(int translation, string word)
+```
+```cs
 //Räknar och returnerar antal ord i listan. 
 public int Count()
+```
+```cs
 //sortByTranslation = Vilket språk listan ska sorteras på.showTranslations = Callback som anropas för varje ord i listan.
 public void List(int sortByTranslation, Action<string[]> showTranslations)
+```
+```cs
 //Returnerar slumpmässigt Word från listan, med slumpmässigt valda FromLanguage och ToLanguage (dock inte samma).
 public Word GetWordToPractice()
 ```
@@ -84,4 +100,5 @@ dem om du vill att ditt program ska vara case insensitive.
 
 Kolla upp **Action** [här](https://docs.microsoft.com/en-us/dotnet/api/system.action-1?view=net-5.0) för mer info kring hur du skapar ett delegate/callback.
 
+Använd valfritt grafiskt ramverk, det måste inte vara WPF
 
