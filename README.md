@@ -21,6 +21,10 @@ Kursrepo för Programmering C#.
 ### [Vecka 43](./assets/V43.md) Buffert
 ### [Vecka 44](./assets/V44.md) Buffert och Tenta
 
+## Extra övning
+
+[Övning inför Labb3(4)](./assets/WPF-Övning.md)
+
 ## Labbar
 ### [Labb 1](./assets/Labb%201.md)
 ### [Labb 2](./assets/Labb%202.md)
