@@ -1,4 +1,4 @@
-# Lab3 – Quiz game!
+# Lab3 – Butiksapplikation
 
 Du har fått i uppgift att skapa WPF-applikation som representerar en butik.</br>
 Applikationen ska ha 4 olika vyer (UserControls):
